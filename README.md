@@ -25,10 +25,10 @@ This iterative process allows for changes as business requirements evolve.
 
 You can view the Project by acessing the link below.
 
-```
-abduljabbarag.github.io/delanistudio/.
 
-```
+[abduljabbarag.github.io/delanistudio/.]
+
+
 
 ## Known Bugs and Issues
 
@@ -59,7 +59,7 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 ### Contact Us
 
-You can reach Me through the links on the website. 
+You can reach Me through email at [abdijabarboxer2009@gmail.com]
 
 ### Copyright Information and Licencing
 
