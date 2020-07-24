@@ -1,3 +1,8 @@
+#mainpadding {
+    padding-top: 14%;
+    margin-bottom: 9%;
+}
+
 #background {
     background-image: url('images/backgrounds/h_img.jpg');
     background-size: cover;
