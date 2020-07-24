@@ -66,7 +66,7 @@ You can reach Me through email at [abdijabarboxer2009@gmail.com]
 
 MIT License Copyright (c) [AJ 2020] [ Delani Studios ]
 
-```
+
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
 
@@ -82,4 +82,4 @@ In addition, Aj is not responsible for the contents of websites that are maintai
 
 Ultimately Aj is not responsible for the contents of websites that are maintained by third parties and therefore shall not be liable or responsible for any links from this Website to other websites.
 
-```
+
