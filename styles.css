@@ -44,11 +44,14 @@
     padding-bottom: 80px;
 }
 
-/*
+.whatwedo {
+    margin-bottom: 4%;
+}
+
 .hide {
     display: none;
 }
-*/
+
 
 #portfolio img {
     width: 100%;
