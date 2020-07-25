@@ -44,30 +44,30 @@
     padding-bottom: 80px;
 }
 
-.whatwedo {
+.whatwedo { /*margin on what we do section settings*/
     margin-bottom: 4%;
 }
 
-.hide {
+.hide { /*hide details for js function click settings*/
     display: none;
 }
 
 
-#portfolio img {
+#portfolio img { /*portfolio cards space settings*/
     width: 100%;
 }
 
-.card-deck {
+.card-deck { /*padding on portfolio card deck settings*/
     padding: 1% 4%;
 }
 
-.card {
+.card { /*alignment of cards settings*/
     margin: 10px 0;
     position: relative;
     overflow: hidden;
 }
 
-.card-1 {
+.card-1 { /*card details settings*/
     position: absolute;
     width: 100%;
     min-height: 100%;
@@ -76,24 +76,25 @@
     display: none;
     transition: all 0.5s ease;
 }
-.card:hover img {
+
+.card:hover img { /*card hover settings*/
     transform: scale(1.2);
     transition: all 2s ease;
 }
 
 
-.form-cont input {
+.form-cont input { /*form style settings*/
     width: 39%;
     background: transparent;
 }
-.form-cont textarea {
+.form-cont textarea { /*form text area settings*/
     margin-top: 10px;
     width: 100%;
     height: 200px;
     background: transparent;
 }
 
-.form-cont {
+.form-cont { /*form input details settings*/
     text-align: center;
     position: relative;
     width: 700px;
@@ -107,12 +108,12 @@
 }
 ::placeholder{
     font-size: 20px;
-
 }
 .con {
     padding-bottom: 30px;
 }
-#contact {
+
+#contact { /*contact us background and padding settings*/
     padding-top: 100px;
     margin-bottom: 50px;
     background-image: url('images/backgrounds/c_image.jpg');
@@ -123,18 +124,19 @@
     margin-top: 10%;
 }
 
-.social img {
+.social img { /*social media icons settings*/
     border-radius: 50%;
     transition: 0.2s ease-out;
 }
-.social img:hover {
+
+.social img:hover { /*social media icons hover settings*/ 
     box-shadow: 0 0 20px rgb(0, 0, 0);
     margin: -3px;
     padding: 3px;
     background: yellowgreen;
 }
 
-.footer {
+.footer { /*footer settings*/
     margin-top: 30px;
     padding: 50px;
 }
