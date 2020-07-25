@@ -1,9 +1,10 @@
-#mainpadding {
+#mainpadding { /*main padding landing page settings*/
     padding-top: 14%;
     margin-bottom: 9%;
 }
 
-#background {
+
+#background {  /*Main background settings*/
     background-image: url('images/backgrounds/h_img.jpg');
     background-size: cover;
     background-repeat: no-repeat;
@@ -11,7 +12,18 @@
 }
 
 
-#about {
+#about { /*about section alignment settings*/
     margin-top: 50px;
     margin-bottom: 50px;
 }
+
+#ourservice { /*our servise section settings*/
+    background-image: url('images/backgrounds/s_image.jpg');
+    color: #fff;
+    margin-bottom: 50px;
+    background-position: center;
+    padding-top: 120px;
+    padding-bottom: 80px;
+}
+
+
