@@ -52,6 +52,13 @@
     display: none;
 }
 
+.ptag {
+    
+    color: rgb(245, 245, 245);
+    font-weight: 100%;
+    font-size: 1.1em;
+    margin: 20% 5%;
+}
 
 #portfolio img { /*portfolio cards space settings*/
     width: 100%;
