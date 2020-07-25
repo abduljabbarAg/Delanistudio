@@ -7,3 +7,8 @@ $('.main').click(function () {
     $(this).children('.show').toggle(2000);
   });
   
+
+
+  $(".card").hover(function () {
+    $(this).children(".card-1").fadeToggle(1000, "linear");
+  });
