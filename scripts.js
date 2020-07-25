@@ -9,6 +9,9 @@ $('.main').click(function () {
   
 
 
-  $(".card").hover(function () {
+//portifolio section 
+//allows the user to get more details when hovering mouse over the cards to display after 1 sec
+$(".card").hover(function () {
     $(this).children(".card-1").fadeToggle(1000, "linear");
   });
+  
