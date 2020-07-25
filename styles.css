@@ -77,3 +77,45 @@
     transform: scale(1.2);
     transition: all 2s ease;
 }
+
+
+.form-cont input {
+    width: 39%;
+    background: transparent;
+}
+.form-cont textarea {
+    margin-top: 10px;
+    width: 100%;
+    height: 200px;
+    background: transparent;
+}
+
+.form-cont {
+    text-align: center;
+    position: relative;
+    width: 700px;
+    max-width: 100%;
+    left: 50%;
+    transform: translate(-50%);
+}
+::placeholder,
+.con {
+    color: #fff;
+}
+::placeholder{
+    font-size: 20px;
+
+}
+.con {
+    padding-bottom: 30px;
+}
+#contact {
+    padding-top: 100px;
+    margin-bottom: 50px;
+    background-image: url('images/backgrounds/c_image.jpg');
+    background-size: cover;
+    background-position: cover;
+    width: 100%;
+    max-width: 100%;
+    margin-top: 10%;
+}
