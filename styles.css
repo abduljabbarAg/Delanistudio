@@ -35,6 +35,7 @@
     margin-bottom: 50px;
 }
 
+
 #ourservice { /*our servise section settings*/
     background-image: url('images/backgrounds/s_image.jpg');
     color: #fff;
@@ -44,13 +45,18 @@
     padding-bottom: 80px;
 }
 
+
 .whatwedo { /*margin on what we do section settings*/
     margin-bottom: 4%;
 }
 
+
+
 .hide { /*hide details for js function click settings*/
     display: none;
 }
+
+
 
 .ptag { /*portfolio in card text custom settings*/
     
@@ -60,19 +66,27 @@
     margin: 20% 5%;
 }
 
+
+
 #portfolio img { /*portfolio cards space settings*/
     width: 100%;
 }
 
+
+
 .card-deck { /*padding on portfolio card deck settings*/
     padding: 1% 4%;
 }
+
+
 
 .card { /*alignment of cards settings*/
     margin: 10px 0;
     position: relative;
     overflow: hidden;
 }
+
+
 
 .card-1 { /*card details settings*/
     position: absolute;
@@ -84,22 +98,30 @@
     transition: all 0.5s ease;
 }
 
+
+
 .card:hover img { /*card hover settings*/
     transform: scale(1.2);
     transition: all 2s ease;
 }
 
 
+
+
 .form-cont input { /*form style settings*/
     width: 39%;
     background: transparent;
 }
+
+
 .form-cont textarea { /*form text area settings*/
     margin-top: 10px;
     width: 100%;
     height: 200px;
     background: transparent;
 }
+
+
 
 .form-cont { /*form input details settings*/
     text-align: center;
@@ -109,16 +131,25 @@
     left: 50%;
     transform: translate(-50%);
 }
-::placeholder,
+
+
+::placeholder, /*form input text color settings*/
 .con {
     color: #fff;
 }
-::placeholder{
+
+
+::placeholder{ /* form input font size*/
     font-size: 20px;
 }
-.con {
+
+
+
+.con { /* contact section padding settings*/
     padding-bottom: 30px;
 }
+
+
 
 #contact { /*contact us background and padding settings*/
     padding-top: 100px;
@@ -131,10 +162,14 @@
     margin-top: 10%;
 }
 
+
+
 .social img { /*social media icons settings*/
     border-radius: 50%;
     transition: 0.2s ease-out;
 }
+
+
 
 .social img:hover { /*social media icons hover settings*/ 
     box-shadow: 0 0 20px rgb(0, 0, 0);
@@ -142,6 +177,8 @@
     padding: 3px;
     background: yellowgreen;
 }
+
+
 
 .footer { /*footer settings*/
     margin-top: 30px;
