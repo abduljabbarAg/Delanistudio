@@ -1,6 +1,8 @@
 // What we do section
 
-// click action function toggle hide/show content{
+// click action function toggle hide/show content
+
+{
     
 }
 $('.main').click(function () {
